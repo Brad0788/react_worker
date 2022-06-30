@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ContactForm from './ContactForm';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         >
           Learn Yourself
         </a>
+        <ContactForm/>
       </header>
     </div>
   );
